@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: basic_security_service
+
+server:
+  port: 8080
+
+app:
+  security:
+    type: inMemory
